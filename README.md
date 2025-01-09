@@ -1,6 +1,6 @@
 # Terms of Service (TOS)
 
-**Last Updated: [DATE]**
+**Last Updated: 01/09/2025**
 
 Welcome to **Panais**! These terms of service outline the rules and policies governing the use of our Discord bot, its dashboard, and our premium services.
 
