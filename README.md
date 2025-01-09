@@ -75,7 +75,7 @@ We reserve the right to update these terms at any time. Users will be notified o
 ---
 
 ## 9. **Contact**
-If you have any questions or issues regarding these terms, please contact us via [Email](contact@panais.xyz) or through our official Discord server: [server link](https://discord.gg/5shqv9Kygv).
+If you have any questions or issues regarding these terms, please contact us via [Email](contact@panais.xyz) or through our official Discord server: [Support](https://discord.gg/5shqv9Kygv).
 
 ---
 
